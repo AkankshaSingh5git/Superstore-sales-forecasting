@@ -104,4 +104,4 @@ This Power BI dashboard serves as a strategic decision-making tool for retail bu
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like. - ![Alt text](https://github.com/username/repo/assets/image.png)
-Example: ![Dashboard Preview]()
+Example: ![Dashboard Preview](https://github.com/AkankshaSingh5git/Superstore-sales-forecasting/blob/main/Snapshot%20of%20the%20dashboard.png)
